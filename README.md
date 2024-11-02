@@ -120,7 +120,6 @@
       height="40"
     />
   </a>
-
     <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img
       src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
@@ -131,9 +130,3 @@
   </a>
 </p>
 
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eminkabacaoglu&show_icons=true&locale=en&layout=compact" alt="eminkabacaoglu" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eminkabacaoglu&show_icons=true&locale=en" alt="eminkabacaoglu" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eminkabacaoglu&" alt="eminkabacaoglu" /></p>
